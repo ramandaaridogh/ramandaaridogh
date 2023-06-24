@@ -1,4 +1,4 @@
-# [![Hi, I'm Ramanda Rido Saputra](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramanda+Rido+Saputra+;%F0%9F%92%BB+Android+And+Web+Developer+)](https://git.io/typing-svg)
+# [![Hi, I'm Ramanda Rido Saputra](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramanda+Rido+Saputra+;%F0%9F%92%BB+Fullstack+Web+Developer+)](https://git.io/typing-svg)
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
