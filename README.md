@@ -1,33 +1,28 @@
-Account age: **7** years
+# [![Hi, I'm Ramanda Rido Saputra](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Ramanda+Rido+Saputra+;%F0%9F%92%BB+Fullstack+Web+Developer+)](https://git.io/typing-svg)
 
-Pushed **170** commits
+I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-Opened **0** issues
+I'm Joined on Github **7** years ago. Since then I pushed **174** commits, opened **0** issues, submitted **7** pull requests, received **0** stars across **30** personal projects and contributed to **4** public repositories.
+I most used programing languages across my projects:
 
-Submitted **4** pull requests
+![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat&logo=PHP&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat&logo=Blade&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-%23563d7c?style=flat&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat&logo=HTML&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat&logo=TypeScript&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-%23c6538c?style=flat&logo=SCSS&logoColor=white)
+![Other](https://img.shields.io/badge/-Other-%23ededed?style=flat&logo=Other&logoColor=white)
 
-Reviewed **0** pull requests
+Find out more about me & feel free to say hello through any of the social links below:
 
-Received **0** stars
+[![Linkedin Badge](https://img.shields.io/badge/-ramandaaridogh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanda-rido-saputra/)](https://www.linkedin.com/in/ramandaaridogh/)
+[![Twitter Badge](https://img.shields.io/badge/-ramandaaridogh-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/ramandaaridogh)](https://www.linkedin.com/in/ramandaaridogh/)
+[![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh/)](https://instagram.com/ramandaaridogh)
+[![Medium Badge](https://img.shields.io/badge/-@ramandaaridogh-%2312100E.svg?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ramandaaridogh/)](https://medium.com/@ramandaaridogh)
 
-Own **30** repositories
+## 👨‍💻 Weekly Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-Contributed to **4** public repositories
-
-Top 8 most used languages across your repositories:
-
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B150.2%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B126.3%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.7%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.9%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.7%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B11.9%25)
-![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25)
-
-Top 4 most used languages across your repositories:
-
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B150.2%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B126.3%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B112.7%25)
+![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
