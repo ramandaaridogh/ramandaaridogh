@@ -1,0 +1,42 @@
+name: Daily Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # run at 00:00
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.PROFILE_TOKEN }}
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+          git config user.name ramandaaridogh
+          git config user.email ramandaaridogh@users.noreply.github.com
+          git add .
+          git commit -m "Update README"
+          git push
+          fi
+  update-weekly-Activity:
+    name: Update 📊 Weekly Activity repo's README
+    needs: generate-readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LOC_CHART: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LANGUAGE_PER_REPO: false
