@@ -8,13 +8,19 @@ I most used programing languages across my projects:
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/badge/-{{LANGUAGE_NAME:uri}}-{{LANGUAGE_COLOR:uri}}?style=flat&logo={{LANGUAGE_NAME:uri}}&logoColor=white)
 {{ LANGUAGE_TEMPLATE_END }}
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?flat&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?flat&logo=jquery&logoColor=white)
 
 Find out more about me & feel free to say hello through any of the social links below:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ramandaaridogh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanda-rido-saputra/)](https://www.linkedin.com/in/ramandaaridogh/)
-[![Twitter Badge](https://img.shields.io/badge/-ramandaaridogh-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/ramandaaridogh)](https://www.linkedin.com/in/ramandaaridogh/)
-[![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh/)](https://instagram.com/ramandaaridogh)
+[![Linkedin Badge](https://img.shields.io/badge/-ramandaaridogh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanda-rido-saputra/)](https://www.linkedin.com/in/ramanda-rido-saputra/)
+[![Twitter Badge](https://img.shields.io/badge/-ramandaaridogh-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/ramandaaridogh)](https://www.twitter.com/ramandaaridogh/)
+[![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh_/)](https://instagram.com/ramandaaridogh_)
 [![Medium Badge](https://img.shields.io/badge/-@ramandaaridogh-%2312100E.svg?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ramandaaridogh/)](https://medium.com/@ramandaaridogh)
+[![Github Badge](https://img.shields.io/badge/-@ramandaaridogh-100000.svg?style=flat&logo=github&logoColor=white&link=https://github.com/ramandaaridogh)](https://github.com/ramandaaridogh)
+[![Github Badge](https://img.shields.io/badge/-@mxcode-100000.svg?style=flat&logo=github&logoColor=white&link=https://github.com/ramanda-mxcode)](https://github.com/ramanda-mxcode)
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
