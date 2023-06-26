@@ -20,9 +20,9 @@ I most used programing languages across my projects:
 
 Find out more about me & feel free to say hello through any of the social links below:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ramandaaridogh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanda-rido-saputra/)](https://www.linkedin.com/in/ramandaaridogh/)
-[![Twitter Badge](https://img.shields.io/badge/-ramandaaridogh-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/ramandaaridogh)](https://www.linkedin.com/in/ramandaaridogh/)
-[![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh/)](https://instagram.com/ramandaaridogh)
+[![Linkedin Badge](https://img.shields.io/badge/-ramandaaridogh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramanda-rido-saputra/)](https://www.linkedin.com/in/ramanda-rido-saputra/)
+[![Twitter Badge](https://img.shields.io/badge/-ramandaaridogh-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/ramandaaridogh)](https://www.twitter.com/ramandaaridogh/)
+[![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh_/)](https://instagram.com/ramandaaridogh_)
 [![Medium Badge](https://img.shields.io/badge/-@ramandaaridogh-%2312100E.svg?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ramandaaridogh/)](https://medium.com/@ramandaaridogh)
 
 ## 👨‍💻 Weekly Activity
