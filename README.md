@@ -5,13 +5,13 @@ I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack
 I'm Joined on Github **7** years ago. Since then I pushed **175** commits, opened **0** issues, submitted **7** pull requests, received **0** stars across **30** personal projects and contributed to **4** public repositories.
 I most used programing languages across my projects:
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat&logo=PHP&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat&logo=Blade&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?flat&logo=jquery&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-%23563d7c?style=flat&logo=CSS&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat&logo=HTML&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat&logo=TypeScript&logoColor=white)
