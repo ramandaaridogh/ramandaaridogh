@@ -25,6 +25,7 @@ Find out more about me & feel free to say hello through any of the social links 
 [![Instagram Badge](https://img.shields.io/badge/-ramandaaridogh-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ramandaaridogh_/)](https://instagram.com/ramandaaridogh_)
 [![Medium Badge](https://img.shields.io/badge/-@ramandaaridogh-%2312100E.svg?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ramandaaridogh/)](https://medium.com/@ramandaaridogh)
 [![Github Badge](https://img.shields.io/badge/-@ramandaaridogh-100000.svg?style=flat&logo=github&logoColor=white&link=https://github.com/ramandaaridogh)](https://github.com/ramandaaridogh)
+[![Github Badge](https://img.shields.io/badge/-@ramandaaridogh-mxcode-100000.svg?style=flat&logo=github&logoColor=white&link=https://github.com/ramanda-mxcode)](https://github.com/ramanda-mxcode)
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
