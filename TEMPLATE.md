@@ -5,13 +5,13 @@ I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack
 I'm Joined on Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 I most used programing languages across my projects:
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/badge/-{{LANGUAGE_NAME:uri}}-{{LANGUAGE_COLOR:uri}}?style=flat&logo={{LANGUAGE_NAME:uri}}&logoColor=white)
-{{ LANGUAGE_TEMPLATE_END }}
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?flat&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?flat&logo=jquery&logoColor=white)
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/badge/-{{LANGUAGE_NAME:uri}}-{{LANGUAGE_COLOR:uri}}?style=flat&logo={{LANGUAGE_NAME:uri}}&logoColor=white)
+{{ LANGUAGE_TEMPLATE_END }}
 
 Find out more about me & feel free to say hello through any of the social links below:
 
