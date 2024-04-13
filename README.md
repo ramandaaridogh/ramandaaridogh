@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **8** years ago. Since then I pushed **532** commits, opened **0** issues, submitted **12** pull requests, received **0** stars across **41** personal projects and contributed to **2** public repositories.
+I'm Joined on Github **8** years ago. Since then I pushed **533** commits, opened **0** issues, submitted **12** pull requests, received **0** stars across **41** personal projects and contributed to **2** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,41 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                452 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌆 Daytime                413 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                284 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-🌙 Night                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Tuesday                  209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Friday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Sunday                   200 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 12/04/2024 00:44:24 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
