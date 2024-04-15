@@ -29,6 +29,41 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                455 commits         ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌆 Daytime                413 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌃 Evening                284 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+🌙 Night                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Tuesday                  209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Wednesday                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 15/04/2024 03:11:18 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
