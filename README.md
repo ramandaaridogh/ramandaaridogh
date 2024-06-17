@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **8** years ago. Since then I pushed **597** commits, opened **0** issues, submitted **12** pull requests, received **0** stars across **41** personal projects and contributed to **2** public repositories.
+I'm Joined on Github **8** years ago. Since then I pushed **598** commits, opened **0** issues, submitted **12** pull requests, received **0** stars across **41** personal projects and contributed to **2** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,43 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                524 commits         █████████░░░░░░░░░░░░░░░░   35.31 % 
-🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-🌃 Evening                291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-🌙 Night                  243 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Sunday                   214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      1 hr 38 mins        ███████████████████░░░░░░   77.18 % 
-Bash                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 16/06/2024 00:53:45 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
