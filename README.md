@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **8** years ago. Since then I pushed **762** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
+I'm Joined on Github **8** years ago. Since then I pushed **763** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -12,7 +12,7 @@ I most used programing languages across my projects:
 ![PHP](https://img.shields.io/badge/-PHP-%234F5D95?style=flat&logo=PHP&logoColor=white)
 ![Blade](https://img.shields.io/badge/-Blade-%23f7523f?style=flat&logo=Blade&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a?style=flat&logo=JavaScript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-%23563d7c?style=flat&logo=CSS&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-%23663399?style=flat&logo=CSS&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23e34c26?style=flat&logo=HTML&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat&logo=TypeScript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-%23c6538c?style=flat&logo=SCSS&logoColor=white)
@@ -29,47 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%208%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                648 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌆 Daytime                499 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌃 Evening                378 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-🌙 Night                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Sunday                   303 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      9 hrs 36 mins       ████████████████████████░   95.59 % 
-Java                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 03/12/2024 01:04:18 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
