@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **9** years ago. Since then I pushed **797** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
+I'm Joined on Github **9** years ago. Since then I pushed **798** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,43 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-995%20hrs%2028%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                682 commits         █████████░░░░░░░░░░░░░░░░   37.49 % 
-🌆 Daytime                499 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌃 Evening                378 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌙 Night                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Thursday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Friday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 06/01/2025 01:01:58 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
