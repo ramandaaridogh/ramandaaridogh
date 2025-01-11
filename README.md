@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **9** years ago. Since then I pushed **801** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
+I'm Joined on Github **9** years ago. Since then I pushed **802** commits, opened **0** issues, submitted **14** pull requests, received **0** stars across **45** personal projects and contributed to **0** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,43 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                686 commits         █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌆 Daytime                499 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                378 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌙 Night                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Thursday                 249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Java                     1 hr 20 mins        ███████████████░░░░░░░░░░   59.38 % 
-JavaScript               54 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-IntelliJ IDEA            2 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 10/01/2025 01:01:11 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
