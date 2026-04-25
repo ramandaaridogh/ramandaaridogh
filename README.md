@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **10** years ago. Since then I pushed **1305** commits, opened **1** issues, submitted **16** pull requests, received **0** stars across **65** personal projects and contributed to **1** public repositories.
+I'm Joined on Github **10** years ago. Since then I pushed **1306** commits, opened **1** issues, submitted **16** pull requests, received **0** stars across **65** personal projects and contributed to **1** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,47 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2014%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1188 commits        ████████████░░░░░░░░░░░░░   47.86 % 
-🌆 Daytime                555 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-🌃 Evening                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  376 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Thursday                 345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Saturday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Sunday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      11 hrs 43 mins      ███████████████████░░░░░░   77.35 % 
-SQL                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Blade Template           46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-.env file                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-🔥 Editors: 
-PhpStorm                 15 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/04/2026 02:04:37 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
