@@ -29,6 +29,47 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C200%20hrs%2045%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1194 commits        ████████████░░░░░░░░░░░░░   47.99 % 
+🌆 Daytime                555 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌃 Evening                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Sunday                   402 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      17 hrs 45 mins      ███████████████████████░░   90.39 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+🔥 Editors: 
+PhpStorm                 19 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/04/2026 02:27:34 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
