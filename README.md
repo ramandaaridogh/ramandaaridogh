@@ -29,6 +29,45 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1216 commits        ████████████░░░░░░░░░░░░░   48.45 % 
+🌆 Daytime                555 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌃 Evening                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Sunday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      10 hrs 52 mins      ████████████████████░░░░░   80.68 % 
+CSS                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+.env file                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+PhpStorm                 13 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/05/2026 02:45:51 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
