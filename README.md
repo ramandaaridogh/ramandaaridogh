@@ -29,6 +29,47 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%206%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1231 commits        ████████████░░░░░░░░░░░░░   48.75 % 
+🌆 Daytime                555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌃 Evening                460 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Friday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      15 hrs 4 mins       ███████████████████████░░   92.74 % 
+SQL                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Blade Template           19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+PhpStorm                 16 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/06/2026 02:36:10 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
