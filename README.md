@@ -29,6 +29,48 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%207%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1264 commits        ████████████░░░░░░░░░░░░░   49.41 % 
+🌆 Daytime                555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+🌃 Evening                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Tuesday                  387 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Thursday                 356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Saturday                 314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   412 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      16 hrs 52 mins      █████████████████░░░░░░░░   69.61 % 
+SQL                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Blade Template           1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+YAML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+
+🔥 Editors: 
+PhpStorm                 18 hrs              ███████████████████░░░░░░   74.28 % 
+Claude Code              6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+```
+
+
+ Last Updated on 09/07/2026 02:24:20 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
