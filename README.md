@@ -29,6 +29,46 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1279 commits        ████████████░░░░░░░░░░░░░   49.71 % 
+🌆 Daytime                555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌃 Evening                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      14 hrs 26 mins      ███████████████░░░░░░░░░░   61.70 % 
+Bash                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Bicep                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Blade Template           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+
+🔥 Editors: 
+PhpStorm                 17 hrs 4 mins       ██████████████████░░░░░░░   72.94 % 
+Claude Code              6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+```
+
+
+ Last Updated on 24/07/2026 02:05:24 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
