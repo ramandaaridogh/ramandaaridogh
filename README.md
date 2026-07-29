@@ -29,6 +29,68 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1284 commits        ████████████░░░░░░░░░░░░░   49.81 % 
+🌆 Daytime                555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌃 Evening                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Thursday                 358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Saturday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      23 hrs 18 mins      ██████████████████░░░░░░░   72.20 % 
+Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Bash                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Dart                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+PhpStorm                 18 hrs              ██████████████░░░░░░░░░░░   55.75 % 
+Claude Code              14 hrs 17 mins      ███████████░░░░░░░░░░░░░░   44.25 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 38 mins (67.01%)
+
+✍️ 7,910 lines written by AI, 12,380 lines written by hand (38.98% AI-written)
+
+🔤 537,059,581 Input Tokens, 1,623,476 Output Tokens
+
+💵 $1633.29 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 258 AI Prompts
+
+Sonnet                   8,092 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 38.98% of written lines came from AI
+📄 Detailed Prompter — average 778 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 62.53% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 02:00:51 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
