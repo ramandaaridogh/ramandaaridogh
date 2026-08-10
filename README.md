@@ -2,7 +2,7 @@
 
 I'm a **Freelance Developer** based in indonesia. Now, I'm focussed on Fullstack & Backend Development. I can do remote work for any place and any time in the world.
 
-I'm Joined on Github **10** years ago. Since then I pushed **1412** commits, opened **1** issues, submitted **16** pull requests, received **0** stars across **65** personal projects and contributed to **1** public repositories.
+I'm Joined on Github **10** years ago. Since then I pushed **1413** commits, opened **1** issues, submitted **16** pull requests, received **0** stars across **65** personal projects and contributed to **1** public repositories.
 I most used programing languages across my projects:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?flat&logo=laravel&logoColor=white)
@@ -29,73 +29,6 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2038%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1295 commits        █████████████░░░░░░░░░░░░   50.02 % 
-🌆 Daytime                555 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-🌃 Evening                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Wednesday                361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Thursday                 360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Saturday                 319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Sunday                   417 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      19 hrs 51 mins      ████████████████████░░░░░   81.16 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Log                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-
-🔥 Editors: 
-PhpStorm                 16 hrs 36 mins      █████████████████░░░░░░░░   67.90 % 
-Claude Code              7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
-WebStorm                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 26 mins (50.82%)
-
-✍️ 3,046 lines written by AI, 4,631 lines written by hand (39.68% AI-written)
-
-🔤 134,794,583 Input Tokens, 867,122 Output Tokens
-
-💵 $448.60 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 104 AI Prompts
-
-Sonnet                   3,186 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.68% of written lines came from AI
-📝 Concise Prompter — average 239 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 64.42% of changed lines were hand-edited
-```
-
-
- Last Updated on 09/08/2026 01:12:21 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
