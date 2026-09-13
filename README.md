@@ -29,6 +29,73 @@ Find out more about me & feel free to say hello through any of the social links 
 
 ## 👨‍💻 Weekly Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C558%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2023%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1327 commits        █████████████░░░░░░░░░░░░   50.57 % 
+🌆 Daytime                558 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌃 Evening                460 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+🌙 Night                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Wednesday                366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      18 hrs 40 mins      ███████████████████░░░░░░   76.41 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Python                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+
+🔥 Editors: 
+Claude Code              15 hrs 51 mins      ████████████████░░░░░░░░░   64.83 % 
+PhpStorm                 8 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 46 mins (80.88%)
+
+✍️ 25,148 lines written by AI, 592 lines written by hand (97.7% AI-written)
+
+🔤 9,185,814 Input Tokens, 1,694,379 Output Tokens
+
+💵 $459.26 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 165 AI Prompts
+
+Opus                     25,109 lines        █████████████████████████   99.81 % 
+Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.7% of written lines came from AI
+📄 Detailed Prompter — average 1,434 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 2.85% of changed lines were hand-edited
+```
+
+
+ Last Updated on 13/09/2026 02:35:11 UTC
 <!--END_SECTION:waka-->
 
 ![📊 Daily Update](https://github.com/ramandaaridogh/ramandaaridogh/actions/workflows/update-activity.yml/badge.svg)
